@@ -1,0 +1,9 @@
+D:/CS255 Proj/build/CMakeFiles/Experimental.dir
+D:/CS255 Proj/build/CMakeFiles/Nightly.dir
+D:/CS255 Proj/build/CMakeFiles/Continuous.dir
+D:/CS255 Proj/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/CS255 Proj/build/CMakeFiles/ATM-Project.dir
+D:/CS255 Proj/build/CMakeFiles/PACKAGE.dir
+D:/CS255 Proj/build/CMakeFiles/RUN_TESTS.dir
+D:/CS255 Proj/build/CMakeFiles/ALL_BUILD.dir
+D:/CS255 Proj/build/CMakeFiles/ZERO_CHECK.dir
