@@ -2,9 +2,9 @@
 This is a programming project for CS250 (Computer Science I)
 
 ## Team members 
-Nguyen Khanh Viet Dung
-Nguyen Trung Hieu
-Nguyen Thanh Tung
+Nguyen Khanh Viet Dung </br>
+Nguyen Trung Hieu </br>
+Nguyen Thanh Tung </br>
 
 ## ATM Project
 
