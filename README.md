@@ -1,4 +1,10 @@
-# CS255 Project
+# CS250 Project
+This is a programming project for CS250 (Computer Science I)
+
+## Team members 
+Nguyen Khanh Viet Dung
+Nguyen Trung Hieu
+Nguyen Thanh Tung
 
 ## ATM Project
 
